@@ -39,7 +39,7 @@ Polygon poly(x, y);
 ### 3. Checking for Intersections
 ```cpp
 std::vector<Polygon> polygons = {poly1, poly2, poly3};
-auto intersectionGroups = poly1.getIntersectionMap(polygons);
+auto intersectionGroups = Polygon.getIntersectionMap(polygons);
 ```
 
 ## License
