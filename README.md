@@ -10,7 +10,7 @@ Polygon Overlap Checker is a C++ dummy project designed to efficiently detect ov
 - **Header-Only Implementation**: No separate `.cpp` files required.
 
 ## Test
-The following test case is implemented in polygon_overlap_checker.cpp 
+The following test case is implemented in polygon_overlap_checker.cpp <br />
 ![image](https://github.com/user-attachments/assets/59921c8f-aea0-4bc4-98bf-135fbf91e594)
 
 ## Installation
