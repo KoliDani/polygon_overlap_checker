@@ -11,17 +11,7 @@ Polygon Overlap Checker is a C++ dummy project designed to efficiently detect ov
 
 ## Test
 The following test case is implemented in polygon_overlap_checker.cpp 
-    ______________          ____________
-   |              |        |            |
-   |      A       |        |            |
-   |       _______|________|__    C     |
-   |      |       |        |  |         |
-   |______|_______| B   ___|__|___      |
-          |            |   |__|___|_____|
-          |____________|______|   |
-                       |          |
-                       |    D     |
-                       |__________|
+![image](https://github.com/user-attachments/assets/59921c8f-aea0-4bc4-98bf-135fbf91e594)
 
 ## Installation
 To use this project, simply clone the repository and compile the program using a C++ compiler that supports C++11 or later.
